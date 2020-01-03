@@ -1,0 +1,16 @@
+{
+  "name": "nodecrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phatho Pukwana",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "url-parse": "^1.0.5",
+    "request": "^2.65.0"
+  }
+}
